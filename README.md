@@ -16,6 +16,7 @@
 
 ## cASO DE USO
 
-![caso de uso.](![historia de usuario.](IMGGIT/IMGGIT/historia.PNG))
+![historia de usuario.](IMGGIT/IMGGIT/uso.PNG)
+
 
 
