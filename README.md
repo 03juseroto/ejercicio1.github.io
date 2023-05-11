@@ -10,5 +10,5 @@
 
 3.No se realiza validacion, ni se verifica la calidad de los datos ingresados.
 
-![historia de usuario.](https://myoctocat.com/assets/images/base-octocat.svg)
+![historia de usuario.](git/historia.PNG)
 
