@@ -10,5 +10,7 @@
 
 3.No se realiza validacion, ni se verifica la calidad de los datos ingresados.
 
-![historia de usuario.](git/historia.PNG)
+## HISTORIA DE USO
+
+![historia de usuario.](IMGGIT/IMGGIT/historia.PNG)
 
