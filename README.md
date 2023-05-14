@@ -14,9 +14,11 @@
 
 ![historia de usuario.](IMGGIT/IMGGIT/historia.PNG)
 
-## cASO DE USO
+## CASO DE USO
 
 ![historia de usuario.](IMGGIT/IMGGIT/uso.PNG)
 
+## APROXIMACION DIAGRAMA DE FLUJO
 
+![historia de usuario.](C:\Users\SEBASTIAN ROJAS\Pictures\IMG)
 
