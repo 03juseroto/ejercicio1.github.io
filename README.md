@@ -20,5 +20,10 @@
 
 ## APROXIMACION DIAGRAMA DE FLUJO
 
-![historia de usuario.](C:\Users\SEBASTIAN ROJAS\Pictures\IMG)
+![historia de usuario.](IMG/1.png)
+
+## APROXIMACION SEUDOCODIGO
+
+![historia de usuario.](IMG/2.png)
+
 
